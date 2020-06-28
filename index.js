@@ -48,9 +48,9 @@ const vm = {
 						<p class="title bb l-2 px-2">${title}</p>
 						<img class="img" src="${imageUrl[0]}" />
 						<span class="bt f-sm content">${content}</span>
-						<button type="button" class="btn btn-delete bt"></button>
 					</div>
 			`
+						// <button type="button" class="btn btn-delete bt"></button>
 			})
 			.join('')
 	},
