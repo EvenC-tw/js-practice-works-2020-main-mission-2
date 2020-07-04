@@ -50,7 +50,7 @@ const vm = {
 						<span class="bt f-sm content">${content}</span>
 					</div>
 			`
-						// <button type="button" class="btn btn-delete bt"></button>
+				// <button type="button" class="btn btn-delete bt"></button>
 			})
 			.join('')
 	},
